@@ -6,5 +6,6 @@ int main(){
     char ar[] {'C','+','+'};
     for(int i=0;i<3;i++)
     cout<<ar[i]<<"\t";
+    cout<<"\n Array displayed above";
     return 0;
 }
